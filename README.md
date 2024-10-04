@@ -1,2 +1,2 @@
-# travel_log
-Travel Log
+# travel_log_name
+Travel Log Name
